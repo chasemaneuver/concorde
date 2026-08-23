@@ -1,4 +1,5 @@
 # Analysis and Resizing of the Concorde Rolls-Royce/Snecma Olympus 593MK610
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22068665.svg)](https://doi.org/10.5281/zenodo.22068665)
 
 This repository contains the MATLAB and Python codes developed for the university project *Analysis and Resizing of the Concorde Rolls-Royce/Snecma Olympus 593MK610*, carried out as part of the final coursework requirements for the Bachelor's Degree in Aerospace Engineering at Politecnico di Milano.
 
@@ -11,5 +12,3 @@ The scripts are intended to reproduce and support the calculations presented in 
 ## Project context
 
 This repository is associated with an academic aerospace engineering project and is not an official publication of Politecnico di Milano. The codes are shared for documentation, reproducibility, and portfolio purposes.
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22068665.svg)](https://doi.org/10.5281/zenodo.22068665)
