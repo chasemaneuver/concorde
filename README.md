@@ -11,3 +11,5 @@ The scripts are intended to reproduce and support the calculations presented in 
 ## Project context
 
 This repository is associated with an academic aerospace engineering project and is not an official publication of Politecnico di Milano. The codes are shared for documentation, reproducibility, and portfolio purposes.
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22068665.svg)](https://doi.org/10.5281/zenodo.22068665)
