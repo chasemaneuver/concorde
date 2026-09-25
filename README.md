@@ -166,12 +166,6 @@ python python/supersonic_cruise.py
 
 Before changing an input case, verify the units and assumptions used by the selected script. The original files contain a mixture of SI units and engineering-unit scalings consistent with the tables in the report.
 
-## Associated publication
-
-The complete report is available on Zenodo:
-
-**DOI:** [10.5281/zenodo.22068665](https://doi.org/10.5281/zenodo.22068665)
-
 ## Citation
 
 If you use the codes or results contained in this repository, please cite the associated report:
